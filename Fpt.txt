@@ -1,7 +1,10 @@
-http://42.115.175.154:8888/udp/225.1.2.244:30120
-
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
+#EXTVLCOPT:http-user-agent=VThanhTivi
+
+http://113.160.152.31:5050/rtp/232.84.3.245:11392
+
+
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
@@ -20,9 +23,9 @@ http://42.115.175.154:8888/udp/225.1.2.96:30120
 http://42.115.175.154:8888/udp/225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T‚y Nam B? (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T√¢y Nam B? (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T‚y NguyÍn (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T√¢y Nguy√™n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.108:30120
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
@@ -43,31 +46,31 @@ http://42.115.175.154:8888/udp/225.1.3.15:30120
 http://42.115.175.154:8888/udp/225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
 http://42.115.175.154:8888/udp/225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T‚y Nam B? (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T√¢y Nam B? (HD 8.5Mbps)
 http://42.115.175.154:8888/udp/225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T‚y NguyÍn (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T√¢y Nguy√™n (HD 8.5Mbps)
 http://42.115.175.154:8888/udp/225.1.3.30:30120
 #-------------------Thi?t y?u-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
+#EXTINF:0 tvg-id="antvhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.169:30120
-#EXTINF:0 tvg-id="nhandan" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh‚n D‚n TV (HD 8Mbps)
+#EXTINF:0 tvg-id="nhandan" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh√¢n D√¢n TV (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.91:30120
-#EXTINF:0 tvg-id="quochoi" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
+#EXTINF:0 tvg-id="quochoi" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.148:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
+#EXTINF:0 tvg-id="qpvnhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.217:30120
-#EXTINF:0 tvg-id="ttxvnhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8Mbps)
+#EXTINF:0 tvg-id="ttxvnhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.167:30120
 
-#EXTINF:0 tvg-id="antvhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8.5Mbps)
+#EXTINF:0 tvg-id="antvhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8.5Mbps)
 http://42.115.175.154:8888/udp/225.1.3.23:30120
-#EXTINF:0 tvg-id="nhandan" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh‚n D‚n TV (HD 8Mbps)
+#EXTINF:0 tvg-id="nhandan" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh√¢n D√¢n TV (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.41:30120
-#EXTINF:0 tvg-id="quochoi" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
+#EXTINF:0 tvg-id="quochoi" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.78:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
+#EXTINF:0 tvg-id="qpvnhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.54:30120
-#EXTINF:0 tvg-id="ttxvnhd" group-title="KÍnh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
+#EXTINF:0 tvg-id="ttxvnhd" group-title="K√™nh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
 http://42.115.175.154:8888/udp/225.1.3.61:30120
 #-------------------VTC/VOV-------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8Mbps)
@@ -130,9 +133,9 @@ http://42.115.175.154:8888/udp/225.1.1.190:30120
 http://42.115.175.154:8888/udp/225.1.1.165:30120
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nh?c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.185:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v‡ Cu?c S?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v√† Cu?c S?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia –Ïnh (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia √ê√¨nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.170:30120
 #EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.184:30120
@@ -159,9 +162,9 @@ http://42.115.175.154:8888/udp/225.1.3.12:30120
 http://42.115.175.154:8888/udp/225.1.3.25:30120
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nh?c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.97:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v‡ Cu?c S?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v√† Cu?c S?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.21:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia –Ïnh (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia √ê√¨nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.84:30120
 #EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.68:30120
@@ -181,214 +184,214 @@ http://42.115.175.154:8888/udp/225.1.3.34:30120
 #-------------------Other-------------------#
 #EXTINF:0 tvg-id="youtv" group-title="Other" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 YouTV
 http://42.115.175.154:8888/udp/225.1.1.207:30120
-#-------------------–?a phuong-------------------#
-#EXTINF:0 tvg-id="laocai" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH L‡o Cai (HD 8Mbps)
+#-------------------√ê?a phuong-------------------#
+#EXTINF:0 tvg-id="laocai" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH L√†o Cai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.119:30120
-#EXTINF:0 tvg-id="yenbai" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH YÍn B·i (HD 8Mbps)
+#EXTINF:0 tvg-id="yenbai" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Y√™n B√°i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.39:30120
-#EXTINF:0 tvg-id="dienbien" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",–TV _ TH –i?n BiÍn (HD 8Mbps)
+#EXTINF:0 tvg-id="dienbien" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",√êTV _ TH √êi?n Bi√™n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.74:30120
-#EXTINF:0 tvg-id="hoabinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH HÚa BÏnh (HD 8Mbps)
+#EXTINF:0 tvg-id="hoabinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH H√≤a B√¨nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.168:30120
-#EXTINF:0 tvg-id="laichau" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Ch‚u (HD 8Mbps)
+#EXTINF:0 tvg-id="laichau" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Ch√¢u (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.36:30120
-#EXTINF:0 tvg-id="hagiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH H‡ Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="hagiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH H√† Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.62:30120
-#EXTINF:0 tvg-id="caobang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao B?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="caobang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao B?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.102:30120
-#EXTINF:0 tvg-id="backan" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH B?c K?n (HD 8Mbps)
+#EXTINF:0 tvg-id="backan" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH B?c K?n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.126:30120
-#EXTINF:0 tvg-id="langson" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH L?ng Son (HD 8Mbps)
+#EXTINF:0 tvg-id="langson" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH L?ng Son (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.160:30120
-#EXTINF:0 tvg-id="tuyenquang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TuyÍn Quang (HD 8Mbps)
+#EXTINF:0 tvg-id="tuyenquang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuy√™n Quang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.188:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Th·i NguyÍn (HD 8Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Th√°i Nguy√™n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.179:30120
-#EXTINF:0 tvg-id="phutho" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Ph˙ Th? (HD 8Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Ph√∫ Th? (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.165:30120
-#EXTINF:0 tvg-id="bacgiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH B?c Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="bacgiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH B?c Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Qu?ng Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Qu?ng Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.180:30120
-#EXTINF:0 tvg-id="bacninh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH B?c Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="bacninh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH B?c Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.40:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H‡ N?i (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H√† N?i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH H‡ N?i (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH H√† N?i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.125:30120
-#EXTINF:0 tvg-id="haiduong" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH H?i Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="haiduong" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH H?i Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.158:30120
-#EXTINF:0 tvg-id="haiphong" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. H?i PhÚng (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphong" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. H?i Ph√≤ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.44:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. H?i PhÚng (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphongplus" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. H?i Ph√≤ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.113:30120
-#EXTINF:0 tvg-id="ninhbinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh BÏnh (HD 8Mbps)
+#EXTINF:0 tvg-id="ninhbinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh B√¨nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.185:30120
-#EXTINF:0 tvg-id="thaibinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Th·i BÏnh (HD 8Mbps)
+#EXTINF:0 tvg-id="thaibinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Th√°i B√¨nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.99:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vinh Ph˙c (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhphuc" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vinh Ph√∫c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.99:30120
-#EXTINF:0 tvg-id="nghean" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Ngh? An (HD 8Mbps)
+#EXTINF:0 tvg-id="nghean" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Ngh? An (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.183:30120
-#EXTINF:0 tvg-id="hatinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH H‡ Tinh (HD 8Mbps)
+#EXTINF:0 tvg-id="hatinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH H√† Tinh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.75:30120
-#EXTINF:0 tvg-id="quangtri" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Qu?ng Tr? (HD 8Mbps)
+#EXTINF:0 tvg-id="quangtri" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Qu?ng Tr? (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.117:30120
-#EXTINF:0 tvg-id="danang1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. –‡ N?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="danang1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. √ê√† N?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. –‡ N?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="danang2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. √ê√† N?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.146:30120
-#EXTINF:0 tvg-id="quangnam" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Qu?ng Nam (HD 8Mbps)
+#EXTINF:0 tvg-id="quangnam" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Qu?ng Nam (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.50:30120
-#EXTINF:0 tvg-id="quangngai" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Qu?ng Ng„i (HD 8Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Qu?ng Ng√£i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.174:30120
-#EXTINF:0 tvg-id="binhdinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH BÏnh –?nh (HD 8Mbps)
+#EXTINF:0 tvg-id="binhdinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH B√¨nh √ê?nh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.145:30120
-#EXTINF:0 tvg-id="phuyen" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Ph˙ YÍn (HD 8Mbps)
+#EXTINF:0 tvg-id="phuyen" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Ph√∫ Y√™n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.58:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Kh·nh HÚa (HD 8Mbps)
+#EXTINF:0 tvg-id="khanhhoa" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Kh√°nh H√≤a (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.133:30120
-#EXTINF:0 tvg-id="ninhthuan" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thu?n (HD 8Mbps)
+#EXTINF:0 tvg-id="ninhthuan" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thu?n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.178:30120
-#EXTINF:0 tvg-id="binhthuan" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH BÏnh Thu?n (HD 8Mbps)
+#EXTINF:0 tvg-id="binhthuan" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH B√¨nh Thu?n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.124:30120
-#EXTINF:0 tvg-id="kontum" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
+#EXTINF:0 tvg-id="kontum" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai (HD 8Mbps)
+#EXTINF:0 tvg-id="gialai" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.176:30120
-#EXTINF:0 tvg-id="daklak" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH –?k L?k (HD 8Mbps)
+#EXTINF:0 tvg-id="daklak" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH √ê?k L?k (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.64:30120
-#EXTINF:0 tvg-id="lamdong" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH L‚m –?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="lamdong" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH L√¢m √ê?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.177:30120
-#EXTINF:0 tvg-id="binhphuoc1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH BÏnh Phu?c (HD 8Mbps)
+#EXTINF:0 tvg-id="binhphuoc1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH B√¨nh Phu?c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.23:30120
-#EXTINF:0 tvg-id="binhphuoc2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH BÏnh Phu?c (HD 8Mbps)
+#EXTINF:0 tvg-id="binhphuoc2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH B√¨nh Phu?c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.38:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.150:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.149:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong3" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.22:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
+#EXTINF:0 tvg-id="anvienhd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.189:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",–NRTV1 HD _ TH –?ng Nai (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",√êNRTV1 HD _ TH √ê?ng Nai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",–NRTV2 HD _ TH –?ng Nai (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",√êNRTV2 HD _ TH √ê?ng Nai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.151:30120
-#EXTINF:0 tvg-id="tayninh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH T‚y Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="tayninh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH T√¢y Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.130:30120
-#EXTINF:0 tvg-id="vungtau" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH B‡ R?a Vung T‡u (HD 8Mbps)
+#EXTINF:0 tvg-id="vungtau" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH B√† R?a Vung T√†u (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.175:30120
-#EXTINF:0 tvg-id="dongthap" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",TH–T1 _ TH –?ng Th·p (HD 8Mbps)
+#EXTINF:0 tvg-id="dongthap" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",TH√êT1 _ TH √ê?ng Th√°p (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",TH–T2 Mi?n T‚y (HD 8Mbps)
+#EXTINF:0 tvg-id="" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",TH√êT2 Mi?n T√¢y (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.210:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Ti?n Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Ti?n Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.170:30120
-#EXTINF:0 tvg-id="angiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="angiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.173:30120
-#EXTINF:0 tvg-id="bentre" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH B?n Tre (HD 8Mbps)
+#EXTINF:0 tvg-id="bentre" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH B?n Tre (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.156:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.155:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.154:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.235:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.25:30120
-#EXTINF:0 tvg-id="travinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr‡ Vinh (HD 8Mbps)
+#EXTINF:0 tvg-id="travinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr√† Vinh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.172:30120
-#EXTINF:0 tvg-id="haugiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="haugiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.157:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH KiÍn Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="kiengiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Ki√™n Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.2.182:30120
-#EXTINF:0 tvg-id="baclieu" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH B?c LiÍu (HD 8Mbps)
+#EXTINF:0 tvg-id="baclieu" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH B?c Li√™u (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.61:30120
-#EXTINF:0 tvg-id="camau" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH C‡ Mau (HD 8Mbps)
+#EXTINF:0 tvg-id="camau" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH C√† Mau (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. C?n Tho (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. C?n Tho (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.1.132:30120
 
-#EXTINF:0 tvg-id="sonla" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Son La
+#EXTINF:0 tvg-id="sonla" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Son La
 http://42.115.175.154:8888/udp/225.1.1.98:30120
-#EXTINF:0 tvg-id="hanam" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH H‡ Nam
+#EXTINF:0 tvg-id="hanam" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH H√† Nam
 http://42.115.175.154:8888/udp/225.1.1.63:30120
-#EXTINF:0 tvg-id="hungyen" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hung YÍn
+#EXTINF:0 tvg-id="hungyen" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hung Y√™n
 http://42.115.175.154:8888/udp/225.1.1.118:30120
-#EXTINF:0 tvg-id="namdinh" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam –?nh
+#EXTINF:0 tvg-id="namdinh" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam √ê?nh
 http://42.115.175.154:8888/udp/225.1.1.120:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh HÛa
+#EXTINF:0 tvg-id="thanhhoa" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh H√≥a
 http://42.115.175.154:8888/udp/225.1.2.184:30120
-#EXTINF:0 tvg-id="quangbinh" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Qu?ng BÏnh
+#EXTINF:0 tvg-id="quangbinh" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Qu?ng B√¨nh
 http://42.115.175.154:8888/udp/225.1.2.164:30120
-#EXTINF:0 tvg-id="hue" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Th?a ThiÍn Hu?
+#EXTINF:0 tvg-id="hue" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Th?a Thi√™n Hu?
 http://42.115.175.154:8888/udp/225.1.1.161:30120
-#EXTINF:0 tvg-id="binhduong6" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/55pfYfq.png",BTV6 _ TH BÏnh Duong
+#EXTINF:0 tvg-id="binhduong6" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/55pfYfq.png",BTV6 _ TH B√¨nh Duong
 http://42.115.175.154:8888/udp/225.1.1.223:30120
-#EXTINF:0 tvg-id="longan" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+#EXTINF:0 tvg-id="longan" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://42.115.175.154:8888/udp/225.1.1.162:30120
-#EXTINF:0 tvg-id="soctrang" group-title="–?a phuong (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH SÛc Trang
+#EXTINF:0 tvg-id="soctrang" group-title="√ê?a phuong (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH S√≥c Trang
 http://42.115.175.154:8888/udp/225.1.1.159:30120
 
-#EXTINF:0 tvg-id="thainguyen" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Th·i NguyÍn (HD 8Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Th√°i Nguy√™n (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.62:30120
-#EXTINF:0 tvg-id="phutho" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Ph˙ Th? (HD 8Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Ph√∫ Th? (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.71:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.32:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H‡ N?i (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H√† N?i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.22:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH H‡ N?i (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH H√† N?i (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.49:30120
-#EXTINF:0 tvg-id="haiphong" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. H?i PhÚng (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphong" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. H?i Ph√≤ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.80:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. H?i PhÚng (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphongplus" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. H?i Ph√≤ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.52:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vinh Ph˙c (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhphuc" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vinh Ph√∫c (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.43:30120
-#EXTINF:0 tvg-id="danang1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. –‡ N?ng (HD 8Mbps)
+#EXTINF:0 tvg-id="danang1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. √ê√† N?ng (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.99:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Kh·nh HÚa (HD 8Mbps)
+#EXTINF:0 tvg-id="khanhhoa" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Kh√°nh H√≤a (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.74:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.64:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.82:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH BÏnh Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="binhduong3" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH B√¨nh Duong (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.96:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
+#EXTINF:0 tvg-id="anvienhd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.58:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",–NRTV1 HD _ TH –?ng Nai (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai1" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",√êNRTV1 HD _ TH √ê?ng Nai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.60:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",–NRTV2 HD _ TH –?ng Nai (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai2" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",√êNRTV2 HD _ TH √ê?ng Nai (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.65:30120
-#EXTINF:0 tvg-id="tayninh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH T‚y Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="tayninh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH T√¢y Ninh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.56:30120
-#EXTINF:0 tvg-id="dongthap" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",TH–T1 _ TH –?ng Th·p (HD 8Mbps)
+#EXTINF:0 tvg-id="dongthap" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",TH√êT1 _ TH √ê?ng Th√°p (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.24:30120
-#EXTINF:0 tvg-id="" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",TH–T2 Mi?n T‚y (HD 8Mbps)
+#EXTINF:0 tvg-id="" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",TH√êT2 Mi?n T√¢y (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.77:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Ti?n Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Ti?n Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.46:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.7:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.19:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.16:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.20:30120
-#EXTINF:0 tvg-id="travinh" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr‡ Vinh (HD 8Mbps)
+#EXTINF:0 tvg-id="travinh" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr√† Vinh (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.44:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH KiÍn Giang (HD 8Mbps)
+#EXTINF:0 tvg-id="kiengiang" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Ki√™n Giang (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.67:30120
-#EXTINF:0 tvg-id="camau" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH C‡ Mau (HD 8Mbps)
+#EXTINF:0 tvg-id="camau" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH C√† Mau (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.100:30120
-#EXTINF:0 tvg-id="cantho" group-title="–?a phuong (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. C?n Tho (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho" group-title="√ê?a phuong (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. C?n Tho (HD 8Mbps)
 http://42.115.175.154:8888/udp/225.1.3.69:30120
 
 #-------------------Qu?c t?-------------------#
@@ -530,9 +533,9 @@ http://42.115.175.154:8888/udp/225.1.4.201:30120
 http://42.115.175.154:8888/udp/225.1.4.7:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T‚y Nam B? (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 T√¢y Nam B? (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.184:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T‚y NguyÍn (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 T√¢y Nguy√™n (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.179:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.42:30120
@@ -556,11 +559,11 @@ http://42.115.175.154:8888/udp/225.1.4.59:30120
 http://42.115.175.154:8888/udp/225.1.4.11:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV TH? THAO (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v‡ Cu?c S?ng (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch v√† Cu?c S?ng (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.67:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nh?c (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia –Ïnh (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia √ê√¨nh (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.64:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.63:30120
@@ -574,7 +577,7 @@ http://42.115.175.154:8888/udp/225.1.4.91:30120
 http://42.115.175.154:8888/udp/225.1.4.211:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.221:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh‚n D‚n TV (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nh√¢n D√¢n TV (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.98:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.148:30120
@@ -584,11 +587,11 @@ http://42.115.175.154:8888/udp/225.1.4.170:30120
 http://42.115.175.154:8888/udp/225.1.4.219:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH B?c Giang
 http://42.115.175.154:8888/udp/225.1.4.173:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H‡ N?i (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH H√† N?i (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",TH–T1 HD _ TH –?ng Th·p (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",TH√êT1 HD _ TH √ê?ng Th√°p (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.125:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",TH–T2 Mi?n T‚y (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",TH√êT2 Mi?n T√¢y (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.177:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.202:30120
@@ -598,7 +601,7 @@ http://42.115.175.154:8888/udp/225.1.4.87:30120
 http://42.115.175.154:8888/udp/225.1.4.176:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr‡ Vinh (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Tr√† Vinh (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.164:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 4Mbps)
 http://42.115.175.154:8888/udp/225.1.4.133:30120
@@ -680,144 +683,144 @@ http://42.115.175.154:8888/udp/225.1.4.58:30120
 http://42.115.175.154:8888/udp/225.1.4.222:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Qu?ng Ninh
 http://42.115.175.154:8888/udp/225.1.4.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH BÏnh Phu?c
+#EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH B√¨nh Phu?c
 http://42.115.175.154:8888/udp/225.1.4.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV2 HD _ TH BÏnh Duong
+#EXTINF:0 tvg-id="" group-title="FPT Play",BTV2 HD _ TH B√¨nh Duong
 http://42.115.175.154:8888/udp/225.1.4.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV6 _ TH BÏnh Duong
+#EXTINF:0 tvg-id="" group-title="FPT Play",BTV6 _ TH B√¨nh Duong
 http://42.115.175.154:8888/udp/225.1.4.78:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–NRTV2 HD _ TH –?ng Nai
+#EXTINF:0 tvg-id="" group-title="FPT Play",√êNRTV2 HD _ TH √ê?ng Nai
 http://42.115.175.154:8888/udp/225.1.4.85:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Arirang
 http://42.115.175.154:8888/udp/225.1.4.74:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",VOV TV
 http://42.115.175.154:8888/udp/225.1.4.220:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An ViÍn HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Vi√™n HD
 http://42.115.175.154:8888/udp/225.1.4.99:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",B?c LiÍu HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B?c Li√™u HD
 http://42.115.175.154:8888/udp/225.1.4.109:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",B?c Ninh HD
 http://42.115.175.154:8888/udp/225.1.4.110:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",B?n Tre HD
 http://42.115.175.154:8888/udp/225.1.4.111:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BÏnh –?nh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B√¨nh √ê?nh HD
 http://42.115.175.154:8888/udp/225.1.4.112:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BÏnh Phu?c 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B√¨nh Phu?c 1 HD
 http://42.115.175.154:8888/udp/225.1.4.113:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BÏnh Thu?n HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B√¨nh Thu?n HD
 http://42.115.175.154:8888/udp/225.1.4.114:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BÏnh Duong 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B√¨nh Duong 1 HD
 http://42.115.175.154:8888/udp/225.1.4.115:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BÏnh Duong 3 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",B√¨nh Duong 3 HD
 http://42.115.175.154:8888/udp/225.1.4.116:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",C‡ Mau HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",C√† Mau HD
 http://42.115.175.154:8888/udp/225.1.4.117:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",C?n Tho HD
 http://42.115.175.154:8888/udp/225.1.4.118:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Cao B?ng HD
 http://42.115.175.154:8888/udp/225.1.4.119:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–‡ N?ng 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",√ê√† N?ng 1 HD
 http://42.115.175.154:8888/udp/225.1.4.120:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–‡ N?ng 2 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",√ê√† N?ng 2 HD
 http://42.115.175.154:8888/udp/225.1.4.121:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–?k L?k HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",√ê?k L?k HD
 http://42.115.175.154:8888/udp/225.1.4.122:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–i?n BiÍn HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",√êi?n Bi√™n HD
 http://42.115.175.154:8888/udp/225.1.4.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",–?ng Nai 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",√ê?ng Nai 1 HD
 http://42.115.175.154:8888/udp/225.1.4.124:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
 http://42.115.175.154:8888/udp/225.1.4.126:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H‡ Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H√† Giang HD
 http://42.115.175.154:8888/udp/225.1.4.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H‡ Nam
+#EXTINF:0 tvg-id="" group-title="FPT Play",H√† Nam
 http://42.115.175.154:8888/udp/225.1.4.128:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H‡ Tinh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H√† Tinh HD
 http://42.115.175.154:8888/udp/225.1.4.129:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",H?i Duong HD
 http://42.115.175.154:8888/udp/225.1.4.130:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H?i PhÚng HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H?i Ph√≤ng HD
 http://42.115.175.154:8888/udp/225.1.4.131:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H‡ N?i 2 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H√† N?i 2 HD
 http://42.115.175.154:8888/udp/225.1.4.132:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HÚa BÏnh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H√≤a B√¨nh HD
 http://42.115.175.154:8888/udp/225.1.4.134:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Th?a ThiÍn Hu?
+#EXTINF:0 tvg-id="" group-title="FPT Play",Th?a Thi√™n Hu?
 http://42.115.175.154:8888/udp/225.1.4.135:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hung YÍn
+#EXTINF:0 tvg-id="" group-title="FPT Play",Hung Y√™n
 http://42.115.175.154:8888/udp/225.1.4.136:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kh·nh HÚa HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Kh√°nh H√≤a HD
 http://42.115.175.154:8888/udp/225.1.4.137:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",KiÍn Giang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Ki√™n Giang HD
 http://42.115.175.154:8888/udp/225.1.4.138:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Kon Tum HD
 http://42.115.175.154:8888/udp/225.1.4.139:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lai Ch‚u HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Lai Ch√¢u HD
 http://42.115.175.154:8888/udp/225.1.4.140:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",L‚m –?ng HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",L√¢m √ê?ng HD
 http://42.115.175.154:8888/udp/225.1.4.141:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",L?ng Son HD
 http://42.115.175.154:8888/udp/225.1.4.142:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",L‡o Cai HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",L√†o Cai HD
 http://42.115.175.154:8888/udp/225.1.4.143:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Long An
 http://42.115.175.154:8888/udp/225.1.4.144:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nam –?nh
+#EXTINF:0 tvg-id="" group-title="FPT Play",Nam √ê?nh
 http://42.115.175.154:8888/udp/225.1.4.145:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Ngh? An HD
 http://42.115.175.154:8888/udp/225.1.4.146:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh BÏnh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh B√¨nh HD
 http://42.115.175.154:8888/udp/225.1.4.147:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Thu?n HD
 http://42.115.175.154:8888/udp/225.1.4.149:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ph˙ Th? HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Ph√∫ Th? HD
 http://42.115.175.154:8888/udp/225.1.4.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ph˙ YÍn HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Ph√∫ Y√™n HD
 http://42.115.175.154:8888/udp/225.1.4.151:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng BÏnh
+#EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng B√¨nh
 http://42.115.175.154:8888/udp/225.1.4.152:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng Nam HD
 http://42.115.175.154:8888/udp/225.1.4.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng Ng„i HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng Ng√£i HD
 http://42.115.175.154:8888/udp/225.1.4.154:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",QTV1 HD _ TH Qu?ng Ninh
 http://42.115.175.154:8888/udp/225.1.4.155:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Qu?ng Tr? HD
 http://42.115.175.154:8888/udp/225.1.4.156:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",SÛc Trang 1
+#EXTINF:0 tvg-id="" group-title="FPT Play",S√≥c Trang 1
 http://42.115.175.154:8888/udp/225.1.4.157:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Son La
 http://42.115.175.154:8888/udp/225.1.4.158:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",T‚y Ninh 11 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",T√¢y Ninh 11 HD
 http://42.115.175.154:8888/udp/225.1.4.159:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Th·i BÏnh HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Th√°i B√¨nh HD
 http://42.115.175.154:8888/udp/225.1.4.160:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Th·i NguyÍn 1 HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Th√°i Nguy√™n 1 HD
 http://42.115.175.154:8888/udp/225.1.4.161:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh HÛa
+#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh H√≥a
 http://42.115.175.154:8888/udp/225.1.4.162:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Ti?n Giang HD
 http://42.115.175.154:8888/udp/225.1.4.163:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",TuyÍn Quang HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Tuy√™n Quang HD
 http://42.115.175.154:8888/udp/225.1.4.165:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vinh Ph˙c HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Vinh Ph√∫c HD
 http://42.115.175.154:8888/udp/225.1.4.166:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",YÍn B·i HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Y√™n B√°i HD
 http://42.115.175.154:8888/udp/225.1.4.167:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",An Giang HD
 http://42.115.175.154:8888/udp/225.1.4.171:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vung T‡u HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",Vung T√†u HD
 http://42.115.175.154:8888/udp/225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",B?c K?n HD
 http://42.115.175.154:8888/udp/225.1.4.174:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",H?i PhÚng + HD
+#EXTINF:0 tvg-id="" group-title="FPT Play",H?i Ph√≤ng + HD
 http://42.115.175.154:8888/udp/225.1.4.178:30120
 #-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong TrÏnh
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong Tr√¨nh
 http://42.115.175.154:8888/udp/225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong TrÏnh
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong Tr√¨nh
 http://42.115.175.154:8888/udp/225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong TrÏnh
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Gi?i Thi?u Chuong Tr√¨nh
 http://42.115.175.154:8888/udp/225.1.4.200:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Pladio
 http://42.115.175.154:8888/udp/225.1.2.244:30120
