@@ -1,4 +1,4 @@
-# thanhla2
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:-1 group-title="SportsAce" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven1
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="SportsAce" tvg-logo="https://imgur.com/PkEGPzf.png", Eleven2
